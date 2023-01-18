@@ -544,3 +544,9 @@ class: inverse, center, middle
 <hr>
 
 `r fa("envelope", fill = "#fff")` [bret.staudtwillet@fsu.edu](mailto:bret.staudtwillet@fsu.edu) | `r fa("globe", fill = "#fff")` [bretsw.com](https://bretsw.com) | `r fa("fab fa-github", fill = "#fff")` [GitHub](https://github.com/bretsw/)
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-otter", fill = "#fff")` <br><br> Let's play <br> in the [Analytics Sandbox](https://bretsw.com/sandbox)
