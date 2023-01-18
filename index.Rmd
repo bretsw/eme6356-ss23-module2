@@ -550,3 +550,5 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 # `r fa("fas fa-otter", fill = "#fff")` <br><br> Let's play <br> in the [Analytics Sandbox](https://bretsw.com/sandbox)
+
+([GitHub repository for code and data](https://github.com/bretsw/sandbox))
